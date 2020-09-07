@@ -2,14 +2,19 @@
 Student chosen topic over a new VR/AR piece of technology.  The topic that I chose was over Tilt Five which is a table top AR game set.
 Link to my presentation: https://slides.com/schafer14/deck
 
+Price
+  Around $299 for 1 Glasses, 1 Wand, and 1 Game Board
+  Around $879 for 3 Glasses, 3 Wand, and 3 Game Board
+
 What is it? > Tilt Five is a whole new way to play tabletop games.  All the actions take place in a holographic space that blends the physical world with the virtual.  Everything is seen and controlled through Tilt Five's glasses and wand.  It is a new immersive and fun way to play games and connect with friends/family.
 
 How it works? 
-  Requirements
+    Requirements
     Phone, PC, Tablet
     Glasses
     Wand
     Square Game Board
+    Does not need any extra sensors or materials
   The mobile device performs all the game's application processing. (
   Uses sensors built into the glasses that track and display the game right onto your lenses.
   The game board is used to help the glasses map out the game for the users.
