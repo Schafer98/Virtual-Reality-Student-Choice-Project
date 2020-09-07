@@ -42,6 +42,9 @@ Weaknesses
   Supports only Windows 10 and select Android devices.
   Still in the preorder stages of development
   
+ Similar Products?
+  Yes, there are some products that share similar ideas to that of Tilt Five however Tilt Five as an upper hand when it comes to market share.  Since starting on kickstarted they tripled their earnings goal and is backed by game developers to have Officially licensed games
+  
  Simulator Sickness
   Rating - 1 Normal (Little to no motion sickness)  
   Since the board in which you are playing on is the only thing that is movie it is very comfortable to play with minimal eye strain.
